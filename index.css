@@ -1,0 +1,37 @@
+body {font-family: Arial, Helvetica, sans-serif;
+}
+form {border: 3px snow #FFFFFF;}
+
+input[type=text], input[type=password] {
+border-radius: 25px;
+width: 100%;
+padding: 12px 20px;
+margin: 8px 0;
+display: inline-block;
+border: 1px solid #ccc;
+box-sizing: border-box;
+}
+
+
+
+
+button {
+    border-radius: 15px;
+    background-color: #0b5234;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+
+
+.container {
+    
+    padding: 16px;
+    width: 20%;
+    margin: 0 auto;
+
+}
